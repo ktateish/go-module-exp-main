@@ -36,8 +36,8 @@ func TestRun(t *testing.T) {
 	}
 
 	b := strings.Fields(string(lines[1]))
-	if len(b) < 5 && b[0] != "B" || b[2] != "C" || b[4] != "foo" {
-		t.Fatalf("the first line of main output is incorrect: want=%s got=%s\n", "B vX.X.X: C vX.X.X: foo", b)
+	if len(b) < 5 && b[0] != "B" || b[2] != "D" || b[4] != "foo" {
+		t.Fatalf("the first line of main output is incorrect: want=%s got=%s\n", "B vX.X.X: D vX.X.X: foo", b)
 	}
 
 }
