@@ -5,6 +5,7 @@ import (
 	"os"
 
 	a "github.com/ktateish/go-module-exp-lib-a"
+	b "github.com/ktateish/go-module-exp-lib-b"
 )
 
 func main() {
@@ -16,5 +17,6 @@ func main() {
 
 func Run(args []string) error {
 	fmt.Println(a.F("foo"))
+	fmt.Println(b.F("foo"))
 	return nil
 }

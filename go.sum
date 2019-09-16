@@ -1,4 +1,6 @@
 github.com/ktateish/go-module-exp-lib-a v1.0.0 h1:eFfS7W0NgkZ/Ok6Jk2CGAyUdh42w9ab/v67kkoMbwoU=
 github.com/ktateish/go-module-exp-lib-a v1.0.0/go.mod h1:FHvL1MTvQBwHOOndH8u8e4c/uRtl4agxw2q+wCfq6Z8=
+github.com/ktateish/go-module-exp-lib-b v1.0.0 h1:kz1cNdKe4yEXkSw2vm3wFQzOr+iy+6UXGg7QijcbKBw=
+github.com/ktateish/go-module-exp-lib-b v1.0.0/go.mod h1:bMj9lsitjPYK8j4A4EoZnZOY8b9PdD6eP+/UlvmeMDQ=
 github.com/ktateish/go-module-exp-lib-c v1.0.0 h1:ZmJ9JMr2/+D6xOcxBNp2BcPrq8mpsv2/S2kMhyt5kwo=
 github.com/ktateish/go-module-exp-lib-c v1.0.0/go.mod h1:gYi8KvN3Xnghkj0l9PYkX1683YBWza5Xr95LcA7Cnpg=
